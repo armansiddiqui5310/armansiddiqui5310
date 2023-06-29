@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning html/css
 - 💞️ I’m looking to collaborate on small projects 
-- 📫 you can contact me through my WhatsApp no.9660419559
+- 📫 you can contact me through my gmail - armansddiqui5310@gmail.com
 
 <!---
 armansiddiqui5310/armansiddiqui5310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
