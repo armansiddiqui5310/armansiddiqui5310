@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @armansiddiqui5310
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning html/css
+- 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on small projects 
 - 📫 you can contact me through my gmail - armansddiqui5310@gmail.com
 
